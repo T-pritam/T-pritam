@@ -1,6 +1,6 @@
 # T Pritam
 
-**Full-Stack Developer @ Tach21** · Berhampur, India · Open to product startup roles
+**Full-Stack Developer @ Tach21** · Hyderabad, India · Open to product startup roles
 
 I ship entire app ecosystems — customer apps, admin apps, and the backend that runs them — end-to-end.
 
